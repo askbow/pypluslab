@@ -1,3 +1,2 @@
 # pypluslab
-Lab for python network automation course
-https://pynet.twb-tech.com
+Lab for Python for Network Engineers course
