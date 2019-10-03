@@ -1,2 +1,3 @@
 # pypluslab
-Lab for python network automation course
+Lab for Python for Network Engineers course
+
