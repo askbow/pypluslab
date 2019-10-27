@@ -1,0 +1,11 @@
+vlan 123
+  name Vlan123
+vlan 234
+  name Vlan234
+vlan 345
+  name Vlan345
+vlan 456
+  name Vlan456
+vlan 567
+  name Vlan567
+
